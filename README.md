@@ -1,2 +1,3 @@
 # repo1-demo
-This is my first git repository
+This is my first git repository.
+Author - Kalpana Rana.
